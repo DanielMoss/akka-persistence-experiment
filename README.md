@@ -13,3 +13,5 @@ After testing, this seems to happen if you have a call to persist within a call 
 Quick links: <br/>
 [application.conf](src/main/resources/application.conf)  <br/>
 [PersistenceTestActor.scala](src/main/scala/PersistenceTestActor.scala)
+
+I created an issue on the akka project for this, which you may find [here](https://github.com/akka/akka/issues/23781).
